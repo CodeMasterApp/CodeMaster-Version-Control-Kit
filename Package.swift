@@ -5,6 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "CodeMaster-Version-Control-Kit",
+    platforms: [
+        .macOS(.v13) // TODO: Upgarde v13 (Ventura) to v14 (Sonoma)
+    ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
