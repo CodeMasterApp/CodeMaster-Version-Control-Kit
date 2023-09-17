@@ -1,4 +1,5 @@
-> Some parts of the code are from https://github.com/AuroraEditor/Version-Control-Kit
+> Some parts of the code are from https://github.com/AuroraEditor/Version-Control-Kit |
+> All rights reserved - Aurora Editor
 
 # CodeMasterVersionControlKit
 CodeMaster Version Control Kit allows us to perform actions like commiting, pulling, pushing and fetching history of whole files or just a certain line of code.
