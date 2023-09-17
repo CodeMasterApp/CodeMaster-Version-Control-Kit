@@ -2,7 +2,16 @@
 //  File.swift
 //  
 //
-//  Created by Nevio Hirani on 17.09.23.
+//  CodeMaster
 //
 
 import Foundation
+
+public struct Add {
+
+    /// Add a conflicted file to the index.
+    ///
+    /// Typically done after having resolved conflicts either manually
+    /// or through checkout --theirs/--ours.
+    public func addConflictedFile() {}
+}
